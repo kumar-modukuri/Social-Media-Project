@@ -1,2 +1,2 @@
 # Social-Media-Project
- Social Media Project - Backend (Java Spring Boot)
+Social Media Project - Backend (Java Spring Boot)
