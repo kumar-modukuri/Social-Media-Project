@@ -15,7 +15,6 @@ const Signup = () => {
 	// Backend API Endpoint
 
 	const URL = "http://localhost:8080/api/users";
-	// const URL = "https://social-media-backend2-rajkumar.onrender.com/api/users";
 
 	// HANDLE CLICK
 

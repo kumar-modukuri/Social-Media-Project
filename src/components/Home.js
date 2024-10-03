@@ -40,7 +40,6 @@ const Home = () => {
 	// Backend 1 API Endpoint
 
 	const URL = "http://localhost:8080/api/users";
-	// const URL = "https://social-media-backend-rajkumar.onrender.com/api/users";
 
 	// SYNC CHATS WITH CHATREF
 
