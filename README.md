@@ -19,25 +19,25 @@ Delete Friends ,
 Online Status , 
 Chat With Friends , 
 Delete Conversations (Both You and Friend) , 
-Logout , 
+Logout
 
 ## TECH STACK ##
 ## Backend - Java Spring Boot (Maven) ##
   Dependencies : 
-    Spring Web
-    Spring Data Mongodb
-    Lombok
-    WebSockets
+    Spring Web , 
+    Spring Data Mongodb , 
+    Lombok , 
+    WebSockets , 
     Java Mail Sender
 
 ## Frontend - React Js ##
   Dependencies : 
-    react-router-dom
-    axios
-    js-cookie
+    react-router-dom , 
+    axios , 
+    js-cookie , 
     sockjs-client @stomp/stompjs
 
 ## Database - MongoDB  (Atlas or Compass) ##
   Collections : 
-    users
+    users , 
     chats
