@@ -22,7 +22,7 @@ Delete Conversations (Both You and Friend) ,
 Logout
 
 ## TECH STACK ##
-## Backend - Java Spring Boot (Maven) ##
+### Backend - Java Spring Boot (Maven) ###
   Dependencies : 
     Spring Web , 
     Spring Data Mongodb , 
@@ -30,14 +30,14 @@ Logout
     WebSockets , 
     Java Mail Sender
 
-## Frontend - React Js ##
+### Frontend - React Js ###
   Dependencies : 
     react-router-dom , 
     axios , 
     js-cookie , 
     sockjs-client @stomp/stompjs
 
-## Database - MongoDB  (Atlas or Compass) ##
+### Database - MongoDB  (Atlas or Compass) ###
   Collections : 
     users , 
     chats
