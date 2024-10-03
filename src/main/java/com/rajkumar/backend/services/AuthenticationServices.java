@@ -92,7 +92,7 @@ public class AuthenticationServices
         {
             MimeMessageHelper helper = new MimeMessageHelper(message, true);
 
-            helper.setFrom("socialmediaprojectbyraj@gmail.com");
+            helper.setFrom("yourmailaddress");
             helper.setTo(mail);
             helper.setSubject("Confirmation Mail");
             String htmlContent = "<html><body>"
